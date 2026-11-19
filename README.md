@@ -1,8 +1,8 @@
-# LabCS — Ambiente Inteligente de Estudos
+# LabCS — 4º período | Ambiente Inteligente de Estudos
 
 Projeto Next.js (App Router + TypeScript + Tailwind CSS) com integração ao Supabase e ao agente de IA via Google Gemini (`@google/genai`) para as disciplinas de:
 - **Banco de Dados**
-- **Programação Orientada a Objetos (POO em Java)**
+- **Programação Orientada a Objetos (POO em Python)**
 - **Estrutura de Dados III**
 
 ## Como rodar no VS Code
